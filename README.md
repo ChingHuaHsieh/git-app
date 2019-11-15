@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 # READMEGGGG
+=======
+# README222
+gg
+
+vvv
+>>>>>>> Stashed changes
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
